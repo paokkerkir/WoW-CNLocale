@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: CNCopyName
+## Notes: Ctrl+RightClick any player name to copy it to clipboard
+## Version: 1.0
+
+CNCopyName.lua

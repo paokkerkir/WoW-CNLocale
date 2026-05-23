@@ -1,0 +1,3 @@
+LIBRARY CNLocale
+EXPORTS
+; Hook-based DLL — no public exports needed
