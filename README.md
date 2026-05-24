@@ -2,7 +2,7 @@
 
 A small injected DLL that tricks **WoW 1.12** into thinking it's running on a Chinese Windows install. The practical result: Chinese text you paste in-game actually shows up instead of `????`, and player names from Chinese private servers copy/paste correctly.
 
-No MPQ editing, no file patching — just runtime API hooks that live only while WoW is running.
+No MPQ editing, no file patching - just runtime API hooks that live only while WoW is running.
 
 Fully compatible with [wow-translate](https://github.com/paokkerkir/wow-translate/tree/main).
 
@@ -13,7 +13,7 @@ Fully compatible with [wow-translate](https://github.com/paokkerkir/wow-translat
 
 ## Announcement:
 
-Since an unexpected amount of people were asking me for a way to donate, if you want to support the development of this passion project, either Paypal me at @paokkerkir or Revolut me at @belthazor.
+Since an unexpected amount of people were asking me for a way to donate, if you want to support the development of this passion project, either Paypal me at `@paokkerkir` or Revolut me at `@belthazor`.
 
 
 ## Install
